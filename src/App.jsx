@@ -17,7 +17,7 @@ function App() {
     console.log(address)
   }
 
-  const [profile,setProfile]=useState('balan');
+  const [profile,setProfile]=useState('normal');
   
   const handleUserChange=()=>{
     setProfile('balan');
