@@ -14,7 +14,7 @@ NibiScan is a tool designed to simplify the tracking of transactions and balance
 - **Balance Monitoring**: Keep an eye on the balance of addresses.
 - **Internal Transaction Tracking**: Monitor internal transactions within the nibi domain.
 - **External Transaction Tracking**: Track external transactions involving nibi domain addresses.
-- **Comprehensive Portfolio Overview**: ScrollScan provides a comprehensive overview of your Scroll domain portfolio, including detailed information such as time, hash, and more.
+- **Comprehensive Portfolio Overview**: NibiScan provides a comprehensive overview of your Scroll domain portfolio, including detailed information such as time, hash, and more.
 - **Future Development**: The future goal of NibiScan is to evolve into a complete portfolio tracker for Nibi. This will include additional features such as portfolio performance analysis, asset allocation insights, and customizable reporting.
 
 
